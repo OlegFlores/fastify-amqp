@@ -25,7 +25,7 @@
     "url": "https://github.com/RafaelGSS/fastify-amqp/issues"
   },
   "homepage": "https://github.com/RafaelGSS/fastify-amqp#readme",
-  "dependencies": {
+  "peerDependencies": {
     "amqplib": "^0.5.3",
     "fastify-plugin": "^1.6.0"
   },
